@@ -1,0 +1,12 @@
+Mengesan pesanan dan penghantaran (Track package) di semua peringkat saluran pengedaran anda. 
+Dapat meneliti item yang paling banyak menerima pesanan, masa yang diperlukan untuk memproses pesanan dan trend jualan semasa.
+
+Untuk memastikan bisnes mempunyai inventori yang mencukupi untuk memenuhi permintaan pelanggan dan 
+mengelakkan bisnes daripada kehilangan potensi jualan. Ini membantu pemilik perniagaan mengetahui 
+infomasi terkini stok dan masa untuk restock semula.
+
+Proses jual beli produk lebih sistematik. Maklumat inventori antara HQ, pembekal,  
+ejen, dan pelanggan dipusatkan dalam satu sistem pangkalan data yang tersedia tinggi
+untuk penyesuaian yang mudah. Ini memudahkan untuk memantau prestasi jualan ejen anda.
+
+Melaksanakan pembayaran membantu menyediakan satu laluan untuk membuat pembayaran dan menyimpan rekod.
